@@ -10,6 +10,7 @@ Get it here: **http://git-scm.com/downloads**
     - [github for Mac](https://central.github.com/mac/latest)
 - Ubuntu
     - `apt-get install git`
-
+- Windows
+    - [github for Windows](http://windows.github.com/)
 
 
