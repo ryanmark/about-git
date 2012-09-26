@@ -1,4 +1,4 @@
-Setup everyone on github
+dusty sucks
 
 Introductions
 
