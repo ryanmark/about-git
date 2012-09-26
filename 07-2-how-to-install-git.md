@@ -11,6 +11,11 @@ Get it here: **http://git-scm.com/downloads**
 - Ubuntu
     - `apt-get install git`
 - Windows
-    - [github for Windows](http://windows.github.com/)
+    - [github for Windows](http://windows.github.com/)  
 
+## Maybe I already have git?
+
+- To check in OS X, open the Terminal and type "git --version" **someone please confirm this is accurate by deleting this**
+- To check in Ubuntu, open the Terminal and type "git --version"
+- To check in Windows, **open the ?Command Prompt? and type "git --version" <= anyone use git with Windows?**
 
