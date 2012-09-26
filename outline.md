@@ -1,4 +1,4 @@
-dusty sucks
+Everyone, get a github account!
 
 Introductions
 
