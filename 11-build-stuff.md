@@ -1,3 +1,6 @@
+Hands-on time 
+-------------
+
 So...
 Let's use github for something useful...
 Prose.io!
