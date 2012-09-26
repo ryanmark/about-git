@@ -1,7 +1,13 @@
-Source Control thingies
+Other source control tools
 -----------------------
 
-- git
-- subversion
-- CVS
-- blah blah
+- Distributed
+    - git
+    - mercurial (hg)
+    - Bazaar (bzr)
+    - DARCS
+    - BitKeeper (commercial)
+- Centrally managed
+    - Subversion
+    - CVS
+    - Clearcase (commercial)

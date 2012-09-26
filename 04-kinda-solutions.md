@@ -8,4 +8,4 @@ Some solutions
 - Enterprise web suites: Sharepoint, Confluence, Alfresco.
 - Source code control / version control: Git (and mercurial, bazaar, subversion...)
 
-- Version control is everywhere!
+**Version control is everywhere, even if you didn't notice it!**

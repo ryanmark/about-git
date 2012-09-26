@@ -8,3 +8,7 @@ Useful resources
 * [Pragmatic Version Control Using
   Git](http://pragprog.com/book/tsgit/pragmatic-version-control-using-git)
 (book, not free)
+* [try.github.com](http://try.github.com/levels/1/challenges/1)
+  (tutorial)
+* [Code School: Git Real](http://www.codeschool.com/courses/git-real)
+  (not free)

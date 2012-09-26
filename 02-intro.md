@@ -1,6 +1,9 @@
 Hello
 -----
 
-**David** ([@eads](http://twitter.com/eads), deads@tribune.com) and **Ryan** ([@ryanmark](http://twitter.com/ryanmark), rmark@tribune.com)
+**David Eads** ([@eads](http://twitter.com/eads), deads@tribune.com)
 
-from the Chicago Tribune
+**Ryan Mark** ([@ryanmark](http://twitter.com/ryanmark), rmark@tribune.com)
+
+[Chicago Tribune News Applications
+Team](http://apps.chicagotribune.com)
