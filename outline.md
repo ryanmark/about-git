@@ -1,4 +1,4 @@
-Everyone, get a github account!
+just kidding
 
 Introductions
 
