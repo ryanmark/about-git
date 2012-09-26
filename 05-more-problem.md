@@ -8,5 +8,4 @@ Problems
 
 - nothing lost (don't need a bunch of backup copies)
 - associating changes with their authors
-
 - edits to someone else's work
