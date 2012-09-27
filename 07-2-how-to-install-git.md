@@ -2,6 +2,7 @@ How do I install git?
 ---------------------
 
 Get it here: **http://git-scm.com/downloads**
+Setup Up Git: **https://help.github.com/articles/set-up-git**
 
 ## Installation alternatives
 
