@@ -12,3 +12,4 @@ Useful resources
   (tutorial)
 * [Code School: Git Real](http://www.codeschool.com/courses/git-real)
   (not free)
+* [Git Tower: Git Client for Mac] (http://www.git-tower.com/)
