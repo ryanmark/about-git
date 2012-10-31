@@ -1,7 +1,7 @@
 Hacks and hackers: Not as different as they look!
 -------------------------------------------------
 
-These are very similar problems to what writers reporters deal with, at a different scale.
+These are very similar problems to what writers and reporters deal with, at a different scale.
 
 **Code is the world's most unforgiving editor**
 
