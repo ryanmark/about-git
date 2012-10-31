@@ -7,3 +7,5 @@ Hello
 
 [Chicago Tribune News Applications
 Team](http://apps.chicagotribune.com)
+
+[Chicago Tribune blog](http://blog.apps.chicagotribune.com)
