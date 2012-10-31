@@ -7,7 +7,7 @@ also awesome) version control system.
 - Open source developers need to coordinate 1 - 1000s of developers
   working on projects that could be around for decades.
 - Linus' git goals:
-    - Not CVS 
+    - Not CVS (Concurrent Versions System)
     - Distributed (no need for central server)
     - Safeguards against data corruption
     - Fast
